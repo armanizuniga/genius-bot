@@ -5,7 +5,7 @@ Ask Armani anything about your Apple devices and get warm, knowledgeable support
 right from your terminal.
 
 ## Demo
-![Genius Bar Chatbot CLI](demo.png)
+![Genius Bar Chatbot CLI](assets/demo.png)
 
 ## Features
 - Conversational memory — Armani remembers context within a session

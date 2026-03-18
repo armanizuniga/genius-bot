@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36af283d-f6df-4bb9-89ea-6e81da57e1bc" name="Changes" comment="">
+    <list default="true" id="36af283d-f6df-4bb9-89ea-6e81da57e1bc" name="Changes" comment="Edited names and added assets. also adjusted markdown file">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/genius-bot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot/__initi__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot/agent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot/prompts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,19 +28,27 @@
   "associatedIndex": 0
 }]]></component>
   <component name="ProjectId" id="3B5uD1RJepxfv8SjOlLD1qtBxe1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.agent.executor": "Run",
     "Python.cli.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,6 +65,29 @@
       <option name="presentableId" value="Default" />
       <updated>1773791128737</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit - Genius bar chatbot">
+      <option name="closed" value="true" />
+      <created>1773794954600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773794954600</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Edited names and added assets. also adjusted markdown file">
+      <option name="closed" value="true" />
+      <created>1773796079284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773796079284</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial Commit - Genius bar chatbot" />
+    <MESSAGE value="Edited names and added assets. also adjusted markdown file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited names and added assets. also adjusted markdown file" />
   </component>
 </project>
